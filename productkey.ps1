@@ -1,4 +1,4 @@
-#The 24 character Windows Key alphabet
+#The 24 character Windows Product Key alphabet
 $digits = 'B','C','D','F','G','H','J','K','M','P','Q','R','T','V','W','X','Y','2','3','4','6','7','8','9'
 
 #Grab the 15 bytes out of DigitalProductId that contain the product key. Stored little-endian, so flip it for easier math
